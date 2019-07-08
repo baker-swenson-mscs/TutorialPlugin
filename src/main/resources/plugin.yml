@@ -1,0 +1,5 @@
+name: TutorialPlugin
+version: 1.0
+author: Baker Swenson
+main: www.bakerswenson.tutorialplugin.TutorialPlugin
+api-version: 1.13
